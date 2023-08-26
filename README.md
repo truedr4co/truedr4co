@@ -1,5 +1,6 @@
-### Hello there.
-
+# Hello there.
+## Welcome to this profile.
+- Contains mostly personal/getting started things
 
 
 <!--
